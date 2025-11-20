@@ -1,17 +1,23 @@
-# Built-in Functions -Binary Conversion Using Built-in Functions in Python
+# Datatypes-Read and Print a String in Python
 
-## 🎯 Aim
-To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
+## Aim
+To write a Python program to read a string from the user and then print it.
 
-## 🧠 Algorithm
-1. Assign the value `16` to a variable `a`.
-2. Use the built-in `bin()` function to convert the number to binary.
-3. Print the result.
+## Algorithm
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
 
-## 🧾 Program
+## Program
+```
+men_stepped_on_the_moon=input()
 
-Add Code Here
-
+print(men_stepped_on_the_moon)
+```
 ## Output
+<img width="968" height="283" alt="image" src="https://github.com/user-attachments/assets/992e4ca4-271e-46f7-8fa7-70cd8204ec10" />
+
+
 
 ## Result
+Thus,the Python program to read a string from the user and then print it is created successfully.
